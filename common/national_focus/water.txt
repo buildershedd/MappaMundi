@@ -976,6 +976,7 @@
 					}
 					RUS = {
 						transfer_state = 232
+						transfer_state = 20017
 						transfer_state = 722
 						transfer_state = 796
 						transfer_state = 1080
@@ -4724,6 +4725,7 @@
 						transfer_state = 12593
 					}
 					RUS = {
+						transfer_state = 20017
 						transfer_state = 12471
 						transfer_state = 12615
 						transfer_state = 12616
@@ -9730,6 +9732,7 @@
 						}
 					}
 					RUS = {
+						transfer_state = 20017
 						transfer_state = 1479
 						transfer_state = 11061
 						transfer_state = 17266
@@ -13865,6 +13868,7 @@
 					}
 				}
 				RUS = {
+					transfer_state = 20017
 					transfer_state = 555
 					transfer_state = 3144
 					transfer_state = 3145
@@ -15341,6 +15345,7 @@
 						}
 					}
 					RUS = {
+						transfer_state = 20017
 						transfer_state = 2414
 						transfer_state = 1081
 						transfer_state = 1080
@@ -17141,6 +17146,7 @@
 						}
 					}
 					RUS = {
+						transfer_state = 20017
 						transfer_state = 722
 						transfer_state = 1878
 						transfer_state = 2118
@@ -19674,6 +19680,7 @@
 						set_state_name = Volgográd
 					}
 					RUS = {
+						transfer_state = 20017
 						transfer_state = 2414
 						transfer_state = 1081
 						transfer_state = 1080
@@ -20552,9 +20559,9 @@
 							ideology = cenrep
 						}
 						create_country_leader = {
-							name = "Präsident Matthias Otte"
+							name = "Präsident Björn Uwe Höcke"
 							desc = ""
-							picture = "gfx/leaders/WGR/WGR_Otte.tga"
+							picture = "gfx/leaders/WGR/WGR_Höcke.tga"
 							expire = "1965.1.1"
 							ideology = natconrep
 						}
@@ -31024,15 +31031,15 @@
 					USA = {
 						set_cosmetic_tag = USA_2024
 						set_politics = {
-							ruling_party = liberal_republic
+							ruling_party = centrist_republic
 						}
 						set_popularities = {
-							socialism_ideology = 17
-							liberal_republic = 21
-							centrist_republic = 11
-							democratic = 13
-							national_conservative_republic = 28
-							anocratic_republic = 10
+							socialism_ideology = 7
+							liberal_republic = 16
+							centrist_republic = 39
+							democratic = 25
+							national_conservative_republic = 10
+							anocratic_republic = 3
 						}
 						set_party_name = {
 							ideology = left_anarchism
@@ -31116,9 +31123,9 @@
 							}
 						}
 						create_country_leader = {
-							name = "President Bernard Sanders"
+							name = "President Alexandria Ocasio-Cortez"
 							desc = ""
-							picture = "gfx/leaders/USA/USA_Sanders.tga"
+							picture = "gfx/leaders/USA/USA_AOC.dds"
 							expire = "1965.1.1"
 							ideology = demsoc
 							traits = {
@@ -31134,9 +31141,9 @@
 							}
 						}
 						create_country_leader = {
-							name = "President Joseph Robinette Biden Jr."
+							name = "President Andrew Yang"
 							desc = ""
-							picture = "gfx/leaders/USA/USA_Biden.tga"
+							picture = "gfx/leaders/USA/USA_2040_Yang.dds"
 							expire = "1965.1.1"
 							ideology = liberalism
 						}
@@ -31150,9 +31157,9 @@
 							}
 						}
 						create_country_leader = {
-							name = "Chancellor Andrew Yang"
+							name = "President Buildershed Robert Dean James Richard Leon Jedermann Eddyson-Michraunian"
 							desc = ""
-							picture = "gfx/leaders/USA/USA_Yang.tga"
+							picture = "gfx/leaders/USA/USA_Michraunian.dds"
 							expire = "1965.1.1"
 							ideology = cenrep
 							traits = {
@@ -31168,9 +31175,9 @@
 							}
 						}
 						create_country_leader = {
-							name = "President Donald John Trump"
+							name = "President Benjamin Aaron Shapiro"
 							desc = ""
-							picture = "gfx/leaders/USA/USA_Trump.tga"
+							picture = "gfx/leaders/USA/USA_Shapiro.dds"
 							expire = "1965.1.1"
 							ideology = conservatism
 						}
@@ -31184,9 +31191,9 @@
 							}
 						}
 						create_country_leader = {
-							name = "President Donald John Trump"
+							name = "President Vivek Ganapathy Ramaswamy"
 							desc = ""
-							picture = "gfx/leaders/USA/USA_Trump.tga"
+							picture = "gfx/leaders/USA/USA_Ramaswamy.dds"
 							expire = "1965.1.1"
 							ideology = natconrep
 						}
@@ -31200,9 +31207,9 @@
 							}
 						}
 						create_country_leader = {
-							name = "President Donald John Trump"
+							name = "President Nicholas Joseph Fuentes"
 							desc = ""
-							picture = "gfx/leaders/USA/USA_Trump.tga"
+							picture = "gfx/leaders/USA/USA_Fuentes.dds"
 							expire = "1965.1.1"
 							ideology = anocrep
 						}
